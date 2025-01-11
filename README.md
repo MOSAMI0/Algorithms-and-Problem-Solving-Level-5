@@ -10,5 +10,6 @@ StackArr - An array-based implementation of the Stack data structure.
 Singly Linked List (Library) - A simple and efficient linked list implementation for sequential data storage and traversal.
 Undo/Redo Project - A real-world application demonstrating undo/redo functionality using stacks.
 Queue Line Project - A project simulating real-world queue operations for task or customer management.
+
 # Why This Repository?
 These projects reflect my ability to design, implement, and optimize data structures and algorithms. They also highlight my understanding of computational efficiency, memory management, and practical problem-solving.
