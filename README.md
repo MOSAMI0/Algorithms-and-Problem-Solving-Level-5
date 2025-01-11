@@ -2,7 +2,7 @@
 Welcome to my Data Structures and Algorithms repository! As a Level 5 student in Data Structures and Algorithms, I have built a series of projects that demonstrate my understanding of core concepts and their practical applications. This repository showcases nine projects, including implementations of foundational data structures and advanced features.
 
 # Featured Projects
-1. Singly Linked List (Library) - A simple and efficient linked list implementation for sequential data storage and traversal.
+1. DoublyLinkedList (Library) - A versatile implementation of a doubly linked list, enabling efficient bidirectional traversal.
 2. Queue (Library) - A custom implementation of the Queue data structure with essential operations.
 3. Stack (Library) - A robust Stack implementation designed for general-purpose use.
 4. DynamicArray (Library) - A flexible array implementation that dynamically resizes as needed.
