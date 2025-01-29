@@ -1,5 +1,7 @@
 # Data Structures and Algorithms Projects Repository
-Welcome to my Data Structures and Algorithms repository! As a Level 5 student in Data Structures and Algorithms, I have built a series of projects that demonstrate my understanding of core concepts and their practical applications. This repository showcases nine projects, including implementations of foundational data structures and advanced features.
+Welcome to my Data Structures and Algorithms repository! While my foundational knowledge of data structures is at Level 1, my algorithmic thinking and problem-solving skills are at Level 5. Through these projects, I’ve honed my ability to tackle complex challenges, optimize performance, and create efficient, scalable solutions.
+
+Explore my work to see how I bridge the gap between theoretical concepts and practical applications, delivering robust and innovative systems.
 
 # Featured Projects
 1. DoublyLinkedList (Library) - A versatile implementation of a doubly linked list, enabling efficient bidirectional traversal.
